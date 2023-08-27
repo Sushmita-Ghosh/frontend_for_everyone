@@ -1,4 +1,4 @@
-## ##How does the web work?
+## How does the web work?
 
 In Mobile:
 
